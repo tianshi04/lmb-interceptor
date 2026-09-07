@@ -8,42 +8,42 @@
 </p>
 
 <p align="center">
-  <b>Advanced, zero-touch userscript toolset for Starve.io, engineered by LMB Clan.</b>
+  <b>Next-generation, zero-touch userscript toolset for Starve.io, engineered by LMB Clan.</b>
 </p>
 
 ---
 
-## 🚀 Quick Install (Cài đặt nhanh)
+## 🚀 Quick Install
 
-### 👉 [**[ ⚡ BẤM VÀO ĐÂY ĐỂ CÀI ĐẶT / UPDATE ]**](https://github.com/tianshi04/lmb-interceptor/releases/latest/download/lmbtools.user.js)
+### 👉 [**[ ⚡ CLICK HERE TO INSTALL / UPDATE ]**](https://github.com/tianshi04/lmb-interceptor/releases/latest/download/lmbtools.user.js)
 
 > [!NOTE]
-> Yêu cầu trình duyệt đã cài tiện ích **[Tampermonkey](https://www.tampermonkey.net/)** hoặc **[Violentmonkey](https://violentmonkey.github.io/)**.
-> Khi bạn bấm vào đường link trên, Tampermonkey sẽ tự động mở trang cài đặt. Mỗi khi có phiên bản mới, tiện ích sẽ tự động cập nhật trong nền!
+> Requires a userscript manager such as **[Tampermonkey](https://www.tampermonkey.net/)** or **[Violentmonkey](https://violentmonkey.github.io/)**.
+> Clicking the link above will automatically open the userscript installation dialog. Future updates will be installed automatically in the background!
 
 ---
 
-## ✨ Features (Tính năng nổi bật)
+## ✨ Key Features
 
-- 🛡️ **Zero-Touch Stealth:** Hoạt động hoàn toàn độc lập, không chèn thuộc tính vào đối tượng gốc của game (`user`, `client`, `world`), hạn chế tối đa nguy cơ bị phát hiện.
-- ⚡ **Driver-Arbitrator-Sensor Engine:** Kiến trúc đa tầng tối ưu hoá từng frame 60 FPS, độ trễ phản hồi cực thấp.
-- 🎯 **Combat & Movement Automation:** Tối ưu hóa chuyển động, căn góc tấn công, tự động hóa tương tác thời gian thực.
-- 🎨 **Enhanced Visuals:** Tùy biến hiển thị gai đổi màu theo cấp độ (Colored Spike), giao diện trong suốt (Transparent UI), và thanh điều khiển Tweakpane hiện đại.
-- 🔒 **Sandboxed Storage:** Thiết lập và cấu hình người dùng được lưu an toàn tuyệt đối trong bộ nhớ Tampermonkey.
-
----
-
-## 🛠️ Hướng dẫn sử dụng
-
-1. Cài đặt tiện ích mở rộng [Tampermonkey](https://www.tampermonkey.net/) trên trình duyệt (Chrome, Brave, Edge, Firefox...).
-2. Bấm vào link cài đặt: **[lmbtools.user.js](https://github.com/tianshi04/lmb-interceptor/releases/latest/download/lmbtools.user.js)**.
-3. Bấm **"Install"** (hoặc **"Update"**) trên bảng xác nhận của Tampermonkey.
-4. Truy cập game **[Starve.io](https://starve.io/)** và trải nghiệm!
-5. Bấm phím tắt mở menu (mặc định phím **K**) để mở bảng cấu hình giao diện.
+- 🛡️ **Zero-Touch Stealth Engine:** Operates non-invasively without prototype pollution or mutating native game instances (`user`, `client`, `world`), minimizing detection risks.
+- ⚡ **Driver-Arbitrator-Sensor Architecture:** Multi-tiered design strictly optimized for 60 FPS update loops with zero GC spikes.
+- 🎯 **Combat & Movement Arbitration:** Real-time intent resolution for fluid movement coordination, angle synchronization, and action prioritization.
+- 🎨 **Enhanced Visuals:** Tier-colored spikes (Colored Spike), sleek transparent UI themes (Transparent UI), and an integrated Tweakpane control panel.
+- 🔒 **Sandboxed Storage:** User preferences and configurations are persisted securely in Tampermonkey storage isolation.
 
 ---
 
-## 💬 Hỗ trợ & Cộng đồng
+## 🛠️ Installation & Getting Started
+
+1. Install **[Tampermonkey](https://www.tampermonkey.net/)** (or Violentmonkey) on your browser (Chrome, Brave, Edge, Firefox, etc.).
+2. Click the direct installation link: **[lmbtools.user.js](https://github.com/tianshi04/lmb-interceptor/releases/latest/download/lmbtools.user.js)**.
+3. Click **"Install"** (or **"Update"**) on the userscript confirmation prompt.
+4. Launch **[Starve.io](https://starve.io/)** and play.
+5. Press the default menu hotkey (**K**) to toggle the control dashboard.
+
+---
+
+## 💬 Community & Support
 
 - **Clan:** LMB Clan
-- **Báo lỗi & Góp ý:** Mở issue tại mục [Issues](https://github.com/tianshi04/lmb-interceptor/issues)
+- **Feedback & Bug Reports:** Open an issue on [GitHub Issues](https://github.com/tianshi04/lmb-interceptor/issues)
