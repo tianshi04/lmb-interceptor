@@ -1,13 +1,6 @@
 # ⚡ LMB Interceptor
 
 <p align="center">
-  <img src="https://img.shields.io/github/v/release/tianshi04/lmb-interceptor?style=for-the-badge&color=F59E0B" alt="Release" />
-  <img src="https://img.shields.io/github/downloads/tianshi04/lmb-interceptor/total.svg?style=for-the-badge&logo=github&color=34D399" alt="Total Downloads" />
-  <img src="https://img.shields.io/github/downloads/tianshi04/lmb-interceptor/latest/total.svg?style=for-the-badge&color=60A5FA" alt="Latest Downloads" />
-  <img src="https://img.shields.io/badge/Game-Starve.io-FF5722?style=for-the-badge" alt="Game" />
-</p>
-
-<p align="center">
   <b>A modern, lightweight utility toolset for Starve.io by LMB Clan.</b>
 </p>
 
