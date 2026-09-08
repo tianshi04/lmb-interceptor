@@ -1,4 +1,4 @@
-﻿# ⚡ LMB Interceptor
+# ⚡ LMB Interceptor
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/tianshi04/lmb-interceptor?style=for-the-badge&color=F59E0B" alt="Release" />
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Next-generation, zero-touch userscript toolset for Starve.io, engineered by LMB Clan.</b>
+  <b>A modern, lightweight utility toolset for Starve.io by LMB Clan.</b>
 </p>
 
 ---
@@ -18,32 +18,32 @@
 ### 👉 [**[ ⚡ CLICK HERE TO INSTALL / UPDATE ]**](https://github.com/tianshi04/lmb-interceptor/releases/latest/download/lmbtools.user.js)
 
 > [!NOTE]
-> Requires a userscript manager such as **[Tampermonkey](https://www.tampermonkey.net/)** or **[Violentmonkey](https://violentmonkey.github.io/)**.
-> Clicking the link above will automatically open the userscript installation dialog. Future updates will be installed automatically in the background!
+> Requires a userscript manager such as **[Tampermonkey](https://www.tampermonkey.net/)** or **[Violentmonkey](https://violentmonkey.github.io/)**.  
+> Clicking the link above will automatically open the installation prompt. Future updates will be synced automatically!
 
 ---
 
-## ✨ Key Features
+## ✨ Features
 
-- 🛡️ **Zero-Touch Stealth Engine:** Operates non-invasively without prototype pollution or mutating native game instances (`user`, `client`, `world`), minimizing detection risks.
-- ⚡ **Driver-Arbitrator-Sensor Architecture:** Multi-tiered design strictly optimized for 60 FPS update loops with zero GC spikes.
-- 🎯 **Combat & Movement Arbitration:** Real-time intent resolution for fluid movement coordination, angle synchronization, and action prioritization.
-- 🎨 **Enhanced Visuals:** Tier-colored spikes (Colored Spike), sleek transparent UI themes (Transparent UI), and an integrated Tweakpane control panel.
-- 🔒 **Sandboxed Storage:** User preferences and configurations are persisted securely in Tampermonkey storage isolation.
+- 🎨 **Visual Enhancements:** Clear in-game visual indicators, tier markers, and customizable themes.
+- ⚡ **Lightweight & Smooth:** Optimized to run seamlessly without causing lag or frame drops.
+- ⚙️ **In-Game Dashboard:** Easy-to-use in-game menu to toggle and customize settings anytime.
+- ⌨️ **Custom Keybinds:** Quickly configure shortcuts to fit your personal playstyle.
+- 💾 **Auto-Saved Settings:** Your preferences are saved automatically across sessions.
 
 ---
 
-## 🛠️ Installation & Getting Started
+## 📥 How to Install
 
-1. Install **[Tampermonkey](https://www.tampermonkey.net/)** (or Violentmonkey) on your browser (Chrome, Brave, Edge, Firefox, etc.).
-2. Click the direct installation link: **[lmbtools.user.js](https://github.com/tianshi04/lmb-interceptor/releases/latest/download/lmbtools.user.js)**.
-3. Click **"Install"** (or **"Update"**) on the userscript confirmation prompt.
-4. Launch **[Starve.io](https://starve.io/)** and play.
-5. Press the default menu hotkey (**K**) to toggle the control dashboard.
+1. Install **[Tampermonkey](https://www.tampermonkey.net/)** (or **[Violentmonkey](https://violentmonkey.github.io/)**) on your browser.
+2. Click the installation link: **[lmbtools.user.js](https://github.com/tianshi04/lmb-interceptor/releases/latest/download/lmbtools.user.js)**.
+3. Click **"Install"** (or **"Update"**) on the prompt.
+4. Open **[Starve.io](https://starve.io/)** and enjoy.
+5. Press **K** (default key) to open the settings menu.
 
 ---
 
 ## 💬 Community & Support
 
 - **Clan:** LMB Clan
-- **Feedback & Bug Reports:** Open an issue on [GitHub Issues](https://github.com/tianshi04/lmb-interceptor/issues)
+- **Feedback & Bug Reports:** [GitHub Issues](https://github.com/tianshi04/lmb-interceptor/issues)
